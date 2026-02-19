@@ -61,12 +61,12 @@
 
 | Day | 날짜 | 주제 | 폴더 |
 |-----|------|------|------|
-| Day 8 | 2/20 | TCP vs UDP | [📁 day8-tcp-udp](./week2/day8-tcp-udp/) |
-| Day 9 | 2/21 | 연결 리스트(Linked List) | [📁 day9-linked-list](./week2/day9-linked-list/) |
+| Day 8 | 2/20 | TCP vs UDP | [📁 day8-tcp-udp](./week2/day8-tcpudp/) |
+| Day 9 | 2/21 | 연결 리스트(Linked List) | [📁 day9-linked-list](./week2/day9-linkedlist/) |
 | Day 10 | 2/22 | 동기화와 교착상태(Deadlock) | [📁 day10-deadlock](./week2/day10-deadlock/) |
 | Day 11 | 2/23 | 트랜잭션(Transaction)과 ACID | [📁 day11-transaction](./week2/day11-transaction/) |
-| Day 12 | 2/24 | 해시 테이블(Hash Table) | [📁 day12-hash-table](./week2/day12-hash-table/) |
-| Day 13 | 2/25 | 정렬 알고리즘 1 (버블, 선택, 삽입) | [📁 day13-sort-basic](./week2/day13-sort-basic/) |
+| Day 12 | 2/24 | 해시 테이블(Hash Table) | [📁 day12-hash-table](./week2/day12-hashtable/) |
+| Day 13 | 2/25 | 정렬 알고리즘 1 (버블, 선택, 삽입) | [📁 day13-sort-basic](./week2/day13-sorting/) |
 | Day 14 | 2/26 | 메모리 관리 (페이징, 세그먼테이션) | [📁 day14-memory](./week2/day14-memory/) |
 
 ### Week 3: 고급 개념 (2/27 ~ 3/5)
@@ -101,13 +101,13 @@
 
 | Day | 주제 | 상태 |
 |-----|------|------|
-| Day 1 | 배열과 리스트 | ⬜ |
-| Day 2 | 프로세스와 스레드 | ⬜ |
-| Day 3 | OSI 7계층과 TCP/IP 4계층 | ⬜ |
-| Day 4 | 스택과 큐 | ⬜ |
-| Day 5 | 데이터베이스 기초 | ⬜ |
-| Day 6 | 시간복잡도와 공간복잡도 | ⬜ |
-| Day 7 | CPU 스케줄링 | ⬜ |
+| Day 1 | 배열과 리스트 | ✅ |
+| Day 2 | 프로세스와 스레드 | ✅ |
+| Day 3 | OSI 7계층과 TCP/IP 4계층 | ✅ |
+| Day 4 | 스택과 큐 | ✅ |
+| Day 5 | 데이터베이스 기초 | ✅ |
+| Day 6 | 시간복잡도와 공간복잡도 | ✅ |
+| Day 7 | CPU 스케줄링 | ✅ |
 
 ### Week 2
 
