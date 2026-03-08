@@ -85,13 +85,13 @@
 
 | Day | 날짜 | 주제 | 폴더 |
 |-----|------|------|------|
-| Day 22 | 3/6 | 힙(Heap)과 우선순위 큐 | [📁 day22-heap](./week4/day22-heap/) |
+| Day 22 | 3/6 | 힙(Heap)과 우선순위 큐 | [📁 day22-heap](./week4/day22-heap-priority-queue/) |
 | Day 23 | 3/7 | 이진 탐색(Binary Search) | [📁 day23-binary-search](./week4/day23-binary-search/) |
-| Day 24 | 3/8 | 컨텍스트 스위칭과 인터럽트 | [📁 day24-context-switch](./week4/day24-context-switch/) |
+| Day 24 | 3/8 | 컨텍스트 스위칭과 인터럽트 | [📁 day24-context-switch](./week4/day24-context-switching-interrupt/) |
 | Day 25 | 3/9 | DFS(깊이 우선 탐색) | [📁 day25-dfs](./week4/day25-dfs/) |
 | Day 26 | 3/10 | BFS(너비 우선 탐색) | [📁 day26-bfs](./week4/day26-bfs/) |
 | Day 27 | 3/11 | 파일 시스템 | [📁 day27-file-system](./week4/day27-file-system/) |
-| Day 28 | 3/12 | 동적 프로그래밍(DP) 기초 | [📁 day28-dp](./week4/day28-dp/) |
+| Day 28 | 3/12 | 동적 프로그래밍(DP) 기초 | [📁 day28-dp](./week4/day28-dynamic-programming/) |
 
 ---
 
@@ -125,13 +125,13 @@
 
 | Day | 주제 | 상태 |
 |-----|------|------|
-| Day 15 | HTTP와 HTTPS | ⬜ |
-| Day 16 | 트리 기본 개념 | ⬜ |
-| Day 17 | 정규화 | ⬜ |
-| Day 18 | 정렬 알고리즘 2 | ⬜ |
-| Day 19 | 가상 메모리 | ⬜ |
-| Day 20 | 이진 탐색 트리 | ⬜ |
-| Day 21 | 인덱스와 쿼리 최적화 | ⬜ |
+| Day 15 | HTTP와 HTTPS | ✅ |
+| Day 16 | 트리 기본 개념 | ✅ |
+| Day 17 | 정규화 | ✅ |
+| Day 18 | 정렬 알고리즘 2 | ✅ |
+| Day 19 | 가상 메모리 | ✅ |
+| Day 20 | 이진 탐색 트리 | ✅ |
+| Day 21 | 인덱스와 쿼리 최적화 | ✅ |
 
 ### Week 4
 
